@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fmaine
 - 👀 I’m interested everything that can contribute to https://github.com/reglo-ai
-- 🌱 I’m currently learning pytorch and deep learning
+- 🌱 We are currently discovering new use cases for reglo.ai
 - 💞️ We are looking for collaborators for our platfrom !
 - 📫 Please contact me : francois@reglo.ai
 
